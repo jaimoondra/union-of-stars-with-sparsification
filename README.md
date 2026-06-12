@@ -6,4 +6,4 @@ This repository contains the code for
 
 To see example usage, look at notebooks > examples.
 
-Original union-of-stars algorithm developed by Joel Rajakumar, Jai Moondra, Bryan Gard, Swati Gupta, and Creston D. Herold. Contact Jai Moondra (jmoondra3@gatech.edu) for questions or comments.
+Original union-of-stars algorithm was developed by Joel Rajakumar, Jai Moondra, Bryan Gard, Swati Gupta, and Creston D. Herold. Contact Jai Moondra (jaimoondra@gmail.com) for questions or comments.
